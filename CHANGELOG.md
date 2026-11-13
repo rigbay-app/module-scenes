@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (Unreleased)
+## 0.1.0 (2026-11-13)
 
 First version. Not released: no real module's command has been run by a scene (see the README, "Not verified").
 
